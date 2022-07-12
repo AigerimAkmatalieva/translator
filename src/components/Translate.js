@@ -47,7 +47,7 @@ export default function Translate() {
                 setLanguagesList(response.data)
             })
 
-        getLanguageSource()
+   
     }, [inputText])
 
 
